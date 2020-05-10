@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `ASANE Blog`,
     author: {
-      name: `Kyle Mathews`,
+      name: `Asane `,
       summary: `who lives and works in San Francisco building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://asaneblog.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `asane1084`,
     },
   },
   plugins: [
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/profilepic.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
