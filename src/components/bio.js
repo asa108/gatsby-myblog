@@ -58,8 +58,8 @@ const Bio = () => {
       />
       <p>
         こんにちは。
-        <strong>{author.name}です。</strong> 
-        {author.summary}
+        <strong>{author.name}</strong> 
+        です。{author.summary}
         {` `}
         {/* <a href={`https://twitter.com/${social.twitter}`}>
           You should follow her on Twitter
