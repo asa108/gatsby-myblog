@@ -55,3 +55,5 @@ https://www.youtube.com/channel/UCpWDGXn8Vc72uPSqITUVWlQ?view_as=subscriber
 心掛けています。  
 英訳の場合、最初に私が翻訳した後に  
 ネイティブによるチェックを行います。
+
+
