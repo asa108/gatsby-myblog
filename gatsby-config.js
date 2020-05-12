@@ -2,8 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `ASANE PORTFOLIO`,
     author: {
-      name: `Asane `,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Asane`,
+      summary: `沖縄生まれの沖縄育ち。アメリカ人の旦那と仲良く暮らしています。
+      WEBサイト作成、iphone・andoridアプリ作成、オリジナルブランド、
+      動画編集、英訳和訳を武器に活動しています。`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://asaneblog.netlify.app/`,
