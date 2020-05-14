@@ -12,7 +12,7 @@ const Layout = ({ location, title, children }) => {
       <h1
         style={{
           ...scale(1.5),
-          marginBottom: rhythm(1.5),
+          // marginBottom: rhythm(1.5),
           marginTop: 0,
         }}
       >
@@ -20,6 +20,7 @@ const Layout = ({ location, title, children }) => {
           style={{
             boxShadow: `none`,
             color: `inherit`,
+            fontSize:`50px`,
           }}
           to={`/`}
         >
@@ -49,6 +50,7 @@ const Layout = ({ location, title, children }) => {
   }
   return (
     <div
+    className='container'
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
@@ -56,9 +58,14 @@ const Layout = ({ location, title, children }) => {
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
-      <header>{header}</header>
+      <header 
+      style={{borderTop:`thick double #32a1ce`,
+      borderBottom:`thick double #32a1ce`
+      }}>{header}</header>
       <main>{children}</main>
-      <footer>
+      <footer
+      style={{borderTop:`thick double #32a1ce`}}
+      >
         <a href='https://www.instagram.com/asane108/?hl=ja'>Instagram</a>
         <p>旦那との国際恋愛事情について、２人のライフスタイルについて発信してます</p>
         <a href='https://twitter.com/asa1084'>Twitter</a>

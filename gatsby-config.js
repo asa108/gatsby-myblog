@@ -5,7 +5,7 @@ module.exports = {
       name: ` Asane `,
       summary: `沖縄生まれの沖縄育ち。アメリカ人の旦那と仲良く暮らしています。
       WEBサイト作成、iphone・andoridアプリ作成、オリジナルブランド、
-      動画編集、英訳和訳はお任せください。`,
+      動画編集、英訳和訳に関してお任せください。`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://asaneblog.netlify.app/`,

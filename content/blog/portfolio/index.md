@@ -3,7 +3,7 @@ title: ポートフォリオ
 date: "2020-05-10"
 description: 私が作成したサイト・アプリやスキル紹介になります。
 ---
-
+__________________________________
 ## あなたの「作りたい」を全力サポート
 ### webページ制作、アプリ開発、動画制作・編集、英訳翻訳任せください！！
 
@@ -47,7 +47,7 @@ Android・Iphone アプリの両方作成可能です。
 https://www.youtube.com/channel/UCpWDGXn8Vc72uPSqITUVWlQ?view_as=subscriber  
 
 <br>
-<br>
+
 
 ・英訳翻訳  
 英訳、日本語訳の業務も行います。  
@@ -56,4 +56,21 @@ https://www.youtube.com/channel/UCpWDGXn8Vc72uPSqITUVWlQ?view_as=subscriber
 英訳の場合、最初に私が翻訳した後に  
 ネイティブによるチェックを行います。
 
+<br>
+・オリジナルブランド
+make yöu というオリジナルブランドを立ち上げています。  
+詳しい説明は下記から確認ください。  
+<br>
 
+### [オリジナルブランドについて](https://asaneblog.netlify.app/originambrand/)
+
+<br><br>
+
+__________________________________  
+
+お仕事の依頼は各SNSのDMよりお願いいたします。
+<br>
+
+[Instagram](https://www.instagram.com/asane108/?hl=ja)はこちら  
+
+[Twitter](https://twitter.com/asa1084)はこちら
