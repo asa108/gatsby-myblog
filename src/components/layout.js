@@ -64,7 +64,7 @@ const Layout = ({ location, title, children }) => {
       }}>{header}</header>
       <main>{children}</main>
       <footer
-      style={{borderTop:`thick double #32a1ce`}}
+      style={{borderTop:`thick double black`}}
       >
         <a href='https://www.instagram.com/asane108/?hl=ja'>Instagram</a>
         <p>旦那との国際恋愛事情について、２人のライフスタイルについて発信してます</p>
