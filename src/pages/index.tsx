@@ -36,6 +36,7 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+
       <SEO title="All posts" />
       <Bio />
       {posts.map(({ node }) => {

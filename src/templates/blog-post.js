@@ -58,9 +58,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             padding: 0,
           }}
         >
+          {/* <p>前の投稿</p> */}
           <li>
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
+              <Link 
+              to={previous.fields.slug} 
+              rel="prev"
+              >
                 ← {previous.frontmatter.title}
               </Link>
             )}
@@ -72,6 +76,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               </Link>
             )}
           </li>
+          {/* <p>後の投稿</p> */}
         </ul>
       </nav>
     </Layout>

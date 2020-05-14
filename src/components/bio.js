@@ -42,8 +42,8 @@ const Bio = () => {
         display: `flex`,
         marginBottom: rhythm(2.5),
         marginTop:`30px`,
-      }}
-    >
+        borderBottom:`solid 2px #32a1ce`}}
+        >
       <Image
         fixed={data.avatar.childImageSharp.fixed}
         alt={author.name}
@@ -66,7 +66,7 @@ const Bio = () => {
           You should follow her on Twitter
         </a> */}
       </p>
-    </div>
+    </div >
   )
 }
 
