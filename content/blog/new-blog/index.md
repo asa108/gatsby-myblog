@@ -1,11 +1,11 @@
 ---
 title: NEW ASANE BLOG
-# date: "20120-04-28T22:40:32.169Z"
-# description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+date: "2020-05-10"
+description: Smilitaryの旦那を持つということ
 ---
+__________________________________
 
-test記事です
 
-改行はどうやってするのかな
+これからUSmilitaryの旦那を持つ私が
+思うこと、考えることを発信していきます。
 
-markdown について勉強していきます

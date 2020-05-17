@@ -41,9 +41,10 @@ const Bio = () => {
       style={{
         display: `flex`,
         marginBottom: rhythm(2.5),
-        marginTop:`30px`,
-        borderBottom:`solid 2px #32a1ce`}}
-        >
+        marginTop: `30px`,
+        borderBottom: `solid 2px #32a1ce`,
+      }}
+    >
       <Image
         fixed={data.avatar.childImageSharp.fixed}
         alt={author.name}
@@ -59,14 +60,14 @@ const Bio = () => {
       />
       <p>
         こんにちは。
-        <strong>{author.name}</strong> 
+        <strong>{author.name}</strong>
         です。{author.summary}
         {` `}
         {/* <a href={`https://twitter.com/${social.twitter}`}>
           You should follow her on Twitter
         </a> */}
       </p>
-    </div >
+    </div>
   )
 }
 
