@@ -1,7 +1,7 @@
 ---
 title: NEW ASANE BLOG
 date: "2020-05-10"
-description: Smilitaryの旦那を持つということ
+description: USmilitaryの旦那を持つということ
 ---
 __________________________________
 

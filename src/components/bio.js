@@ -34,14 +34,15 @@ const Bio = () => {
       }
     }
   `)
-
+  // profileの丸いアイコンの紹介文
+  // 各ページの最後、トップのトップ画像のした
   const { author, social } = data.site.siteMetadata
   return (
     <div
       style={{
         display: `flex`,
         marginBottom: rhythm(2.5),
-        marginTop: `30px`,
+        marginTop: `10px`,
         borderBottom: `solid 2px #32a1ce`,
       }}
     >
@@ -58,6 +59,7 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
+
       <p>
         こんにちは。
         <strong>{author.name}</strong>
