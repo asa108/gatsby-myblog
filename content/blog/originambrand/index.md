@@ -4,7 +4,7 @@ title: My original brand
 description: 立ち上げているオリジナルブランドについて
 ---
 
-![](../../asset/../assets/profilepic.png)
+![](../../assets/makeyou.JPG)
 
 ## コンセプト🌿
 __________________________________
@@ -21,9 +21,9 @@ __________________________________
 make yöu はそんな思いを込めてショップを運営しています。
 
 
-[ページサイトはこちら](https://makeyou-my.stores.jp/)
+[make yöuのサイトはこちら](https://makeyou-my.stores.jp/)
 
-[ショップインスタグラムはこちら](https://www.instagram.com/makeyou_my/?hl=ja)
+[make yöuのインスタグラムはこちら](https://www.instagram.com/makeyou_my/?hl=ja)
 __________________________________
 
 
@@ -38,6 +38,6 @@ make yöu では商品の梱包にプラスチック製ではなく
 寄付させていただく予定です。  
 
 
-「だれか」を幸せにするだけでなく、  
+「だれか」の気持ちを変えるモノを提供するだけでなく、  
 沖縄や環境にも貢献できるような活動をしていきたいと思い  
 ショップを運営していきます。
